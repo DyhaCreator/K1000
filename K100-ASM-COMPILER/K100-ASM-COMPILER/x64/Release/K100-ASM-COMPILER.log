@@ -1,0 +1,12 @@
+﻿  K100-ASM-COMPILER.cpp
+D:\K1000\K100-ASM-COMPILER\K100-ASM-COMPILER\K100-ASM-COMPILER.cpp(128,17): warning C4244: инициализация: преобразование "_Ty" в "char", возможна потеря данных
+          with
+          [
+              _Ty=short
+          ]
+  Создание кода
+  2 of 312 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  K100-ASM-COMPILER.vcxproj -> D:\K1000\K100-ASM-COMPILER\x64\Release\K100-ASM-COMPILER.exe

@@ -1,0 +1,7 @@
+﻿  K100-ASM-COMPILER.cpp
+D:\K1000\K100-ASM-COMPILER\K100-ASM-COMPILER\K100-ASM-COMPILER.cpp(135,17): warning C4244: инициализация: преобразование "_Ty" в "char", возможна потеря данных
+          with
+          [
+              _Ty=short
+          ]
+  K100-ASM-COMPILER.vcxproj -> D:\K1000\K100-ASM-COMPILER\x64\Debug\K100-ASM-COMPILER.exe
